@@ -5,3 +5,7 @@ __migrator:
 migrator_ts: 1718606940.144743
 vtk:
 - 9.3.0
+vtk-base:
+- 9.3.0
+vtk-io-ffmpeg:
+- 9.3.0
